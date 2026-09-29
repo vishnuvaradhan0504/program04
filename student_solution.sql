@@ -1,3 +1,4 @@
+
 -- =========================================
 -- SQL Assignment: Create Course Table
 -- Name:
